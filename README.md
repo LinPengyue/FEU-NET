@@ -9,8 +9,8 @@ Weakly supervised phrase grounding (WSPG) aims to localize visual objects referr
 <div align="center"> <img src="https://github.com/user-attachments/assets/2e90470e-e97e-42d6-877f-9d12c129fbc4" alt="FEU-NET Framework Overview" width="500" /> </div>
 
 
-## 🧪 Benchmark Dataset (Coming Soon)
-
+## 🧪 Benchmark Dataset
+VG-P and VG-C Link: https://drive.google.com/file/d/1IPj9Ym9QuSK-6oiFF1lZpYA32pjdhjO9/view?usp=sharing
 
 ## 🛠️ License
 This project is released under the MIT License.
